@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("git java2");
         System.out.println("git java3");
         System.out.println("git java4");
+        System.out.println("master commit2");
     }
 }
